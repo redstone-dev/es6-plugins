@@ -1,1 +1,0 @@
-fcreate("phpheaders.txt", "pop")
