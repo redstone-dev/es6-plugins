@@ -1,1 +1,9 @@
-
+{
+  "plugins":{
+    "strict": true,
+    "eslintrc": true,
+    "file_ext": ".esplugin",
+    "main_dir": null
+  },
+  
+}
