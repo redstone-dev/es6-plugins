@@ -1,14 +1,14 @@
 # Setup
-Basically, you just need a `esplugs.js` file!
+Basically, you just need an `esplugs.js` file!
 
 
-So, in the `esplugs.js`, write:
+So, in `esplugs.js`, write:
 ```javascript
 function init(InitS){ 
   return InitS;
 }
 ```
-Then in the `esplugs.js`, write:
+Then in `esplugs.js`, write:
 ```javascript
   class Fetch{
     "fetch": init(void);
