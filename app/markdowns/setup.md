@@ -20,3 +20,12 @@ In `files.php`, write:
 ```php
   fcreate("es-bundles1.zip", NULL);
 ```
+Then in `esplugs.js`:
+```javascript
+var exports = ['jquery', 'angularjs'];
+exports.split(/jquery/[jq]);
+```
+Then create a directory, `/dist`. In `/dist`, add this file:
+```
+.eslintrc
+```
